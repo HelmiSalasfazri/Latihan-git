@@ -14,7 +14,7 @@
 
 ``git --version``
 
-![photo_2020-10-14_02-36-53](https://user-images.githubusercontent.com/72790651/95907712-29266580-0dc6-11eb-819c-89f04a853fc8.jpg)
+![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
 
 
 ### Menambahkan Global Config
@@ -29,6 +29,7 @@
 
 `$ git config --global user.email “nama_user”`
 
+![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
 
 ### Perintah Dasar Git
 
@@ -67,7 +68,7 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File **README.md** berhasil dibuat.
 
-![photo_2020-10-14_02-39-16](https://user-images.githubusercontent.com/72790651/95907983-92a67400-0dc6-11eb-8545-aebcbc6d1a09.jpg)
+
 
 ### Menambahkan File baru pada repository
 
@@ -75,7 +76,8 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![photo_2020-10-14_02-56-22](https://user-images.githubusercontent.com/72790651/95909668-14979c80-0dc9-11eb-8050-c8c3c0459298.jpg)
+![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+
 
 ### `Commit` (Menyimpan perubahan ke database)
 
@@ -83,7 +85,8 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![photo_2020-10-14_02-49-49](https://user-images.githubusercontent.com/72790651/95909911-7821ca00-0dc9-11eb-90af-688f07c62aae.jpg)
+![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
+
 
 ### Membuat repository server
 
@@ -114,7 +117,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![photo_2020-10-14_02-49-50 (2)](https://user-images.githubusercontent.com/72790651/95910887-f29f1980-0dca-11eb-8663-e7689e4d25e3.jpg)
+![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -143,6 +146,5 @@ $ cd latihan1``
 
 #### Made In By Muhammad Rizky Abdillah
 ![Screenshot_20201014-095137_Samsung_Internet-picsay 1](https://user-images.githubusercontent.com/66506609/95938392-0024c580-0e04-11eb-8fdc-cd5770736a7a.jpg)
-
 
 
