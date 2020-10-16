@@ -1,4 +1,4 @@
-# # PENGGUNAAN GIT 
+### PENGGUNAAN GIT 
 
 
 ### APA ITU GIT ?
@@ -133,7 +133,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![photo_2020-10-14_02-49-50 (4)](https://user-images.githubusercontent.com/72790651/95911303-807b0480-0dcb-11eb-9987-3917daf42b1e.jpg)
+![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
 
 ### Kegunaan file README.md
 
