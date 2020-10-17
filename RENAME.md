@@ -14,7 +14,8 @@
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
+![Git version](https://user-images.githubusercontent.com/72736573/96331989-d382df00-108b-11eb-8745-bfabdace483a.PNG)
+
 
 
 ### Menambahkan Global Config
@@ -29,7 +30,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
+![User name](https://user-images.githubusercontent.com/72736573/96332055-32e0ef00-108c-11eb-99dc-c82fe7183131.PNG)
 
 ### Perintah Dasar Git
 
@@ -76,7 +77,8 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![git add](https://user-images.githubusercontent.com/72736573/96332142-b8fd3580-108c-11eb-8098-1abe3f1373e2.PNG)
+
 
 
 ### `Commit` (Menyimpan perubahan ke database)
@@ -85,7 +87,8 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
+![git commit](https://user-images.githubusercontent.com/72736573/96332278-185b4580-108d-11eb-8bc6-bd635d806dd6.PNG)
+
 
 
 ### Membuat repository server
@@ -95,7 +98,8 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (39)](https://user-images.githubusercontent.com/66506609/95936476-da95bd00-0dff-11eb-826d-c7b34e2c45fc.png)
+![membuat repository](https://user-images.githubusercontent.com/72736573/96332322-80119080-108d-11eb-823a-5bdde3104ab0.PNG)
+
 
 
 ### Membuat repository server
@@ -117,7 +121,8 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![push](https://user-images.githubusercontent.com/72736573/96332376-d383de80-108d-11eb-8aa9-b24ae8b99af6.PNG)
+
 
 
 ### Melihat hasilnya pada server repository
@@ -144,7 +149,7 @@ $ cd latihan1``
 
 
 
-### Author : Muhammad Rizky Abdillah
+### Author : Helmi Salasfazri
 ![giphy-preview](https://user-images.githubusercontent.com/66506609/96253867-8bf24980-0fde-11eb-841c-8b8a6ba0171f.gif)
 
 
